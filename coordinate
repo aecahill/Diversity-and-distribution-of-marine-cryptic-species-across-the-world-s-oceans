@@ -1,0 +1,27 @@
+rm(list=ls())
+
+
+library(dplyr)
+library(robis)
+library(readr)
+library(ggplot2)
+library(vegan)
+library(mregions)
+
+
+
+eez <- mr_names("MarineRegions:eez")
+iho <- mr_names('MarineRegions:iho')
+fao <- mr_names('MarineRegions:fao')
+lme <- mr_names('MarineRegions:lme')
+
+
+
+rr <- mr_shp(key = "MarineRegions:eez_iho_union_v2",
+             filter = "North Atlantic Ocean")
+
+coor_fao=NULL
+for(x in fao$name){
+coor_fao<-rbind(coor_fao, mr_as_wkt(mr_shp(key = "MarineRegions:fao", filter= x, read= TRUE), fmt = 5))
+}
+fao<-cbind(fao$name,coor_fao )
