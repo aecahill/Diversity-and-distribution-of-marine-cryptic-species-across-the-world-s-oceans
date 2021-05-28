@@ -29,6 +29,3 @@ ggplot() +
   geom_polygon(data = world, aes(x = long, y = lat, group = group), fill = "#dddddd") +
   geom_polygon(data = NS, aes(x = long, y = lat, group = group), fill = "#cc3300") +
   coord_fixed(1)
-
-
-NAtlantic<-mr_shp(key = "MarineRegions:eez_iho_union_v2", filter= "North Atlantic Ocean", read= TRUE)
