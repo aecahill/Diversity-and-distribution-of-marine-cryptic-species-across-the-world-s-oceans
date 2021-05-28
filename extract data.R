@@ -81,3 +81,57 @@ richness<-rbind(richness,margalef(select(d,x)))
 table_ABNJ<- data.frame(diversity, richness)
 class(table_ABNJ)
 write.csv(table_ABNJ,"~/Desktop/Summer research/2021/ABNJtable.csv")
+
+
+
+
+
+
+#Extract data for all occ in ABNJ
+
+Occ_all_ABNJ_Arctic<-occurrence(areaid= 6, fields = colname )
+
+Occ_all_ABNJ_Indian<-occurrence(areaid= 114, fields = colname )
+
+Occ_all_ABNJ_NAtlantic<-occurrence(areaid= 176, fields = colname )
+
+Occ_all_ABNJ_SAtlantic<-occurrence(areaid= 222, fields = colname )
+
+Occ_all_ABNJ_NPacific<-occurrence(areaid= 178, fields = colname )
+
+Occ_all_ABNJ_SPacific<-occurrence(areaid= 225, fields = colname )
+
+Occ_all_ABNJ_Southern<-occurrence(areaid= 223, fields = colname )
+
+Occ_all_ABNJ_Arctic$Ocean <-"Artic"
+Occ_all_ABNJ_Indian$Ocean <-"Indian"
+Occ_all_ABNJ_NAtlantic$Ocean <- "NAtlantic"
+Occ_all_ABNJ_SAtlantic$Ocean <-"SAtlantic"
+Occ_all_ABNJ_NPacific$Ocean <-"NPacific"
+Occ_all_ABNJ_SPacific$Ocean <-"SPacific"
+Occ_all_ABNJ_Southern$Ocean <-"Southern"
+
+Occ_all_ABNJ<-rbind(Occ_all_ABNJ_Arctic, Occ_all_ABNJ_Indian,Occ_all_ABNJ_NAtlantic, 
+                Occ_all_ABNJ_SAtlantic, Occ_all_ABNJ_NPacific, Occ_all_ABNJ_SPacific, Occ_all_ABNJ_Southern)
+write.csv(Occ_all_ABNJ,"~/Desktop/Summer research/2021/OccurrenceABNJall.csv")
+
+
+#Calculate the Shannon diversity
+nspecies<-ncol(checklist_ABNJ)
+checklist_all_ABNJ<-table(Occ_all_ABNJ$Ocean, Occ_all_ABNJ$scientificName)
+diversity_all<- diversity(checklist_all_ABNJ)
+
+#calculate the margalef richness
+a<-matrix(t(checklist_all_ABNJ), ncol= 7)
+collumnname<-c("Arctic", "Indian", "NAtlantic", "SAtlantic", "NPacific", "SPacific", "Southern")
+colnames(a)<-collumnname
+d<-as.data.frame(a)
+
+richness=NULL
+for(x in collumnname){
+  richness<-rbind(richness,margalef(select(d,x)))
+}
+
+#Make a table
+table_all_ABNJ<- data.frame(diversity_all, richness)
+write.csv(table_all_ABNJ,"~/Desktop/Summer research/2021/ABNJtable_all.csv")
