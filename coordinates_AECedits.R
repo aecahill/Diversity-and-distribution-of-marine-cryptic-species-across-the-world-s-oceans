@@ -34,4 +34,4 @@ ggplot() +
   geom_polygon(data = SeaJapan2, aes(x = long, y = lat, group = group), fill = "#cc3300") +
   coord_fixed(1)
 
-#note that I had to use SeaJapan2, not SeaJapan3 (not sure why - wrong data format I think?)
+#note that I had to use SeaJapan2, not SeaJapan3 (not sure why - wrong data format I)
