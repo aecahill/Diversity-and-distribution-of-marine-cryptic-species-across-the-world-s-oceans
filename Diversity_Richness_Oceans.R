@@ -100,3 +100,68 @@ for(x in collumnname){
 table_Oceans_cryptic<- data.frame(diversity, richness)
 write.csv(table_Oceans_cryptic,"~/Desktop/Summer research/2021/table_Oceans_cryptic.csv")
 
+#Calculate beta diversity over cells approximately 500 miles across
+#example English channel
+colname <- c("scientificName", "decimalLatitude", "decimalLongitude")
+English_Channel<- occurrence( geometry = World_Oceans$coor[16], fields = colname )
+
+dggs<- dgconstruct(spacing=500, metric=FALSE, resround='down')
+English_Channel$cell <- dgtransform(dggs,English_Channel$decimalLatitude,English_Channel$decimalLongitude)
+English_Channel_Checklist<-table(English_Channel$cell, English_Channel$scientificName)
+betadiv_English_Channel<-betadiver(English_Channel_Checklist,"w")
+a<-as.numeric(betadiv_English_Channel)
+betadiv_English_Channe_mean<-mean(a)
+
+
+#Arctic Ocean beta diversity
+Occ_ArcticOcean <- read_csv("World's Oceans/Occ Oceans/Occ_ArcticOcean.csv")
+
+dggs<- dgconstruct(spacing=1000, metric=FALSE, resround='down')
+
+Occ_ArcticOcean$cell <- dgtransform(dggs,Occ_ArcticOcean$decimalLatitude,Occ_ArcticOcean$decimalLongitude)
+
+Occ_ArcticOcean_Checklist<-table(Occ_ArcticOcean$cell, Occ_ArcticOcean$scientificName)
+
+betadiv_ArcticOcean<-betadiver(Occ_ArcticOcean_Checklist,"w")
+betadiv_ArcticOcean_mean<-mean(as.numeric(betadiv_ArcticOcean))
+
+#Indian Ocean beta diversity
+Occ_IndianOcean <- read_csv("World's Oceans/Occ Oceans/Occ_IndianOcean.csv")
+
+Occ_IndianOcean$cell <- dgtransform(dggs,Occ_ArcticOcean$decimalLatitude,Occ_ArcticOcean$decimalLongitude)
+
+Occ_IndianOcean_Checklist<-table(Occ_IndianOcean$cell, Occ_IndianOcean$scientificName)
+
+betadiv_IndianOcean<-betadiver(Occ_IndianOcean_Checklist,"w")
+betadiv_IndianOcean_mean<-mean(as.numeric(betadiv_IndianOcean))
+
+#Southern Ocean beta diversity
+Occ_SouthOcean <- read_csv("World's Oceans/Occ Oceans/Occ_SouthOcean.csv")
+
+Occ_SouthOcean$cell <- dgtransform(dggs,Occ_SouthOcean$decimalLatitude,Occ_SouthOcean$decimalLongitude)
+
+Occ_SouthOcean_Checklist<-table(Occ_SouthOcean$cell, Occ_SouthOcean$scientificName)
+
+betadiv_SouthOcean<-betadiver(Occ_SouthOcean_Checklist,"w")
+betadiv_SouthOcean_mean<-mean(as.numeric(betadiv_SouthOcean))
+
+
+#Atlantic Ocean beta diversity
+Occ_AtlanticOcean <- read_csv("World's Oceans/Occ Oceans/Occ_AtlanticOcean.csv")
+
+Occ_AtlanticOcean$cell <- dgtransform(dggs,Occ_AtlanticOcean$decimalLatitude,Occ_AtlanticOcean$decimalLongitude)
+
+Occ_AtlanticOcean_Checklist<-table(Occ_AtlanticOcean$cell, Occ_AtlanticOcean$scientificName)
+
+betadiv_AtlanticOcean<-betadiver(Occ_AtlanticOcean_Checklist,"w")
+betadiv_AtlanticOcean_mean<-mean(as.numeric(betadiv_AtlanticOcean))
+
+#Pacific Ocean beta diversity
+Occ_PacificOcean <- read_csv("World's Oceans/Occ Oceans/Occ_PacificOcean.csv")
+
+Occ_PacificOcean$cell <- dgtransform(dggs,Occ_PacificOcean$decimalLatitude,Occ_PacificOcean$decimalLongitude)
+
+Occ_PacificOcean_Checklist<-table(Occ_PacificOcean$cell, Occ_PacificOcean$scientificName)
+
+betadiv_PacificOcean<-betadiver(Occ_PacificOcean_Checklist,"w")
+betadiv_PacificOcean_mean<-mean(as.numeric(betadiv_PacificOcean))
