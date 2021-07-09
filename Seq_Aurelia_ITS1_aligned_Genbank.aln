@@ -1,0 +1,470 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+KC767900.1_Aurelia_aurita       -----------------------------TAACAAGGTTTCCGTAGGTGA
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       -----------------------------TAACAAGGTTTCCGTAGGTGA
+AY935215.1_Aurelia_limbata      --------------------------------------------------
+AY319843.1_Aurelia_labiata      ------------------------------------ATTACCGAATGATG
+AY319842.1_Aurelia_labiata      ------------------------------------ATTACCGAATGATG
+AY319844.1_Aurelia_labiata      ------------------------------------ATTACCGAATGATG
+AY935202.1_Aurelia_labiata      --------------------------------------TACCGAATGATG
+AF461408.1_Aurelia_labiata      TAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTACCGAATGATG
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       --------------------------------------------------
+AY935206.1_Aurelia_aurita       --------------------------------------------------
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------TAACAAGGTTTCCGTAGG
+KC767902.1_Aurelia_aurita       --------------------------------TAACAAGGTTTCCGTAGG
+AF461411.1_Aurelia_limbata      -----------------------------TAACAAGGTTTCCGTAGGTGA
+                                                                                  
+
+KC767900.1_Aurelia_aurita       ACCTGCGGAAGGATCATTACCG-AAACTTGCAGTTTATGCTGCAAAA---
+EF010536.1_Aurelia_aurita       ------------------------AACTTGCAGTT-ATGCTGCAAAAAAA
+AF461405.1_Aurelia_aurita       ACCTGCGGAAGGATCATTACCGGAAACTTGCAGTTTATGCTGCAAAA---
+AY935215.1_Aurelia_limbata      --------------CCGAATTGCTTGATTGAAGAG-ATTCAATCGACATC
+AY319843.1_Aurelia_labiata      TCATGTCATGTCATGT-----GTTGTGTCATGTTCTATGCGCACATATAC
+AY319842.1_Aurelia_labiata      TCATGTCATGTCATGT-----GTTGTGTCATGTTCTATGCGCACATATAC
+AY319844.1_Aurelia_labiata      TCATGTCATGTCATGTCATGTGTTGTGTCATGTTCTATGCGCACATATAC
+AY935202.1_Aurelia_labiata      TCATGTCATGTCATGT-----GTTGTGTCATGTTCTATGCGCACATATAC
+AF461408.1_Aurelia_labiata      TCATGTCATGTCATGT-----GTTGTGTCATGTTCTATGCGCACATATAC
+AY319849.1_Aurelia_aurita       ------------------ATTACCGAATCTACCACTGTTATGTTGATC--
+AY935205.1_Aurelia_aurita       --------------------TACCGAATCTACCACTGTTATGTTGATC--
+AY935206.1_Aurelia_aurita       ----------------------CCGAATCTACTGTTATGTTGTTGGTCTC
+AY319848.1_Aurelia_aurita       ------------------ATTACCGAATCTACTGTTATGTTGTCGGTCTC
+KC767901.1_Aurelia_aurita       TGAACCTGCGGAAGGATCATTACCGAATCTACTGTTATGTTGTTGGTCTC
+KC767902.1_Aurelia_aurita       TGAACCTGCGGAAGGATCATTACCGAATCTACTGTTATGTTGTTGGTCTC
+AF461411.1_Aurelia_limbata      ACCTGCGGAAGGATCATTACCGAATACGCGTACACTGCCGAGTCGCAAGG
+                                                                                  
+
+KC767900.1_Aurelia_aurita       ---GCTATTCTATTCTGTTGAGCG----GATGCTTGTCATTCGACAACGA
+EF010536.1_Aurelia_aurita       ---GCTATTCTATTCTGTTGAGCG----GATGCTTGTCATTCGACAACGA
+AF461405.1_Aurelia_aurita       ---GCTATTCTATTCTGTTGAGCG----GATGCTTGTCATTCGATAACGA
+AY935215.1_Aurelia_limbata      ---GTCATTCTATTCTGTTGAGCG----AATGCTTGCCATTCGACAACGA
+AY319843.1_Aurelia_labiata      ---ATACATACATACATACATACA----ACTGCTATTCTGTTGTTTCGAC
+AY319842.1_Aurelia_labiata      ---ATACATACATACATACATACATACAACTGCTATTCTGTTGTTTCGAC
+AY319844.1_Aurelia_labiata      ---ATACATACATACA------------ACTGCTATTCTGTTGTTTCGAC
+AY935202.1_Aurelia_labiata      ---ATACATACATACATACATACATACAACTGCTATTCTGTTGTTTCGAC
+AF461408.1_Aurelia_labiata      ---ATACATACATACATACATACA----ACTGCTATTCTGTTGTTTCGAC
+AY319849.1_Aurelia_aurita       -------------ATAACTCGCTGCTATTCTGTTGAGCTAACAACTCGGC
+AY935205.1_Aurelia_aurita       -------------ATAACTCGCTGCTATTCTGTTGAGCTAACAACTCGGC
+AY935206.1_Aurelia_aurita       G--ACTGACACAAACAAATCGCTGCTATTCTGTTGAGCTAACAACTCAGC
+AY319848.1_Aurelia_aurita       G--ACTGACACAAACAAATCGCTGCTATTCTGTTGAGCTAACAACTCAGC
+KC767901.1_Aurelia_aurita       G--ACTGACACAAACAAATCGCTGCTATTCTGTTGAGCTAACAACTCAGC
+KC767902.1_Aurelia_aurita       G--ACTGACACAAACAAATCGCTGCTATTCTGTTGAGCTAACAACTCAGC
+AF461411.1_Aurelia_limbata      CGAAGCAGAACAAGTACCAAGTAGTAGTAGTGCATGCCTAT--GTATCTA
+                                                              **     *            
+
+KC767900.1_Aurelia_aurita       ATAAAGAATAACCACTG-TGAA---CTTGTA-CCTATCTGTGTGAGGTGG
+EF010536.1_Aurelia_aurita       ATAAAGAATAACCACTGGTGAA---CTTGTA-CCTATCTGTGTGAGGTGG
+AF461405.1_Aurelia_aurita       ATAAAGAATAACCACTG-TGAA---CTTGTA-CCTATCAGTGTGAGGTGG
+AY935215.1_Aurelia_limbata      AT---GAATAACCACTG-TGAA---CTTGTA-CCTATCTGTGTGAGGTGG
+AY319843.1_Aurelia_labiata      AACACGAATAACCACTG-TGAA---CTTGTA-CCTATCTGTGTGAGGTGG
+AY319842.1_Aurelia_labiata      AACACGAATAACCACTG-TGAA---CTTGTA-CCTATCTGTGTGAGGTGG
+AY319844.1_Aurelia_labiata      AACACGAATAACCACTG-TGAA---CTCGTA-CCTATCTGTGTGAGGTGG
+AY935202.1_Aurelia_labiata      AACACGAATAACCACTG-TGAA---CTTGTA-CCTATCTGTGTGAGGTGG
+AF461408.1_Aurelia_labiata      AACACGAATAACCACTG-TGAA---CTTGTA-CCTATCTGTGTGAGGTGG
+AY319849.1_Aurelia_aurita       ACGAATAACAACCACTG-TGAA---TTTGTA-CCAATCTGTGTGAGGTGG
+AY935205.1_Aurelia_aurita       ACGAATAACAACCACTG-TGAA---TTTGTA-CCAATCTGTGTGAGGTGG
+AY935206.1_Aurelia_aurita       ACGAATAACAACCACTG-TGAA---CTTGTA-CCAATCTGTGTGAGGTGG
+AY319848.1_Aurelia_aurita       ACGAATAACAACCACTG-TGAA---CTTGTA-CCAATCTGTGTGAGGTGG
+KC767901.1_Aurelia_aurita       ACGAATAACAACCACTG-TGAA---CTTGTA-CCAATCTGTGTGAGGTGG
+KC767902.1_Aurelia_aurita       ACGAATAACAACCACTG-TAGAAACTTAGTAACCAATCTGTGTGAGGTGG
+AF461411.1_Aurelia_limbata      TCTATCTACATTCACTG-TGAA---CTTGTA-CTGATCTGTGTGAGGTGG
+                                       * *  ***** *  *    * *** *  *** ***********
+
+KC767900.1_Aurelia_aurita       GCAGAGT----GCACATGC----GTGTGTAC-------GTCTGAGCTTAA
+EF010536.1_Aurelia_aurita       GCAGAGT----GCACATGC----GTGTGTAC-------GTCTGAGCTTAA
+AF461405.1_Aurelia_aurita       GCAGAGT----GCACATGC----GTGTGTAC-------GTCTGAGCTTAA
+AY935215.1_Aurelia_limbata      GCGGAGT----GCACATGCTTGCGTGTGTAC-------GTCTGAGCTTAA
+AY319843.1_Aurelia_labiata      GCAGGGT----GCACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AY319842.1_Aurelia_labiata      GCAGGGT----GCACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AY319844.1_Aurelia_labiata      GCAGGGT----GCACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AY935202.1_Aurelia_labiata      GCAGGGT----GCACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AF461408.1_Aurelia_labiata      GCAGGGT----GCACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AY319849.1_Aurelia_aurita       GCAGAGT----ATACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AY935205.1_Aurelia_aurita       GCAGAGT----ATACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AY935206.1_Aurelia_aurita       GCAGAGT----ATACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AY319848.1_Aurelia_aurita       GCAGAGT----ATACATGC----GTGTGTAC-------GTCTGTGCTTAA
+KC767901.1_Aurelia_aurita       GCAGAGT----ATACATGC----GTGTGTAC-------GTCTGTGCTTAA
+KC767902.1_Aurelia_aurita       GCAGAGT----ATACATGC----GTGTGTAC-------GTCTGTGCTTAA
+AF461411.1_Aurelia_limbata      ACAGAGACGGGGAGCAAGGTAAAATGCTTGCCTCTGTCGTCTGTGCTCAA
+                                 * * *        ** *      **  * *       ***** *** **
+
+KC767900.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTTTTTT-------C
+EF010536.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTTTT----------
+AF461405.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTTTT---------C
+AY935215.1_Aurelia_limbata      ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTGCTGT-------T
+AY319843.1_Aurelia_labiata      ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTGCTTA-------T
+AY319842.1_Aurelia_labiata      ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTGCTTA-------T
+AY319844.1_Aurelia_labiata      ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTGCTTA-------T
+AY935202.1_Aurelia_labiata      ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTGCTTA-------T
+AF461408.1_Aurelia_labiata      ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGTTTGCTTA-------T
+AY319849.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCATATGGAGCTTGCTTAT------T
+AY935205.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCATATGGAGCTTGCTTAT------T
+AY935206.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGCTTGCTTAT------T
+AY319848.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGCTTGCTTAT------T
+KC767901.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGCTTGCTTAT------T
+KC767902.1_Aurelia_aurita       ATGACGGGCGTTTTCCCATCGGCCTCACATGGAGCTTGCTTAT------T
+AF461411.1_Aurelia_limbata      ATGGCAGGCGTTT-CCTGCCGGCCTCACATGGAGCTTTTTCGTGTCTCGA
+                                *** * ******* **   ******** ****** **  *          
+
+KC767900.1_Aurelia_aurita       ATTG--TTAATAACTT-GTGTAAAA-ATTATTCCTGAAAATG-GTCAAAC
+EF010536.1_Aurelia_aurita       ATGT--TAAACAACTT-GTGTAAAA-ATTATTCCTGAAAATG-GTCAAAC
+AF461405.1_Aurelia_aurita       ATTG--TTAATAACTT-GTGTAAAA-ATTATTCCTGAAAATG-GTCAAAC
+AY935215.1_Aurelia_limbata      GTTT--TTACAAACTTTATAATACA-TTCATTCCAGTTCAAT-GTCAAAC
+AY319843.1_Aurelia_labiata      GTTT--TCTTCAAAAC--TACCTGT-TTTATTCCTGATCATA-ATCGAAC
+AY319842.1_Aurelia_labiata      GTTT--TCTTCAAAAC--TACCTGT-TTTATTCCTGATCATA-ATCGAAC
+AY319844.1_Aurelia_labiata      GTTT--TCTTCAAAAC--TACCTGT-TTTATTCCTGATCATA-ATCGAAC
+AY935202.1_Aurelia_labiata      GTTT--TCTTCAAAAC--TACCTGT-TTTATTCCTGATCATA-ATCGAAC
+AF461408.1_Aurelia_labiata      GTTT--TCTTCAAAAC--TACCTGT-TTTATTCCTGATCATA-ATCGAAC
+AY319849.1_Aurelia_aurita       GTTTACTATTATAAATACTTATAAA-TTTTTTCCTGAAAATTTATTGTGT
+AY935205.1_Aurelia_aurita       GTTTACTATTATAAATACTTATAAA-TTTTTTCCTGAAAATTTATTGTGT
+AY935206.1_Aurelia_aurita       GTTT-CTATTATAACAACTTATAAA-ATTATTCCTGAAAATTTATTGTGT
+AY319848.1_Aurelia_aurita       GTTTACTATTATAACAACTTATAAA-ATTATTCCTGAAAATTTATTGTGT
+KC767901.1_Aurelia_aurita       GTTTACTATTATAACAACTTATAAA-ATTATTCCTGAAAATTTATTGTGT
+KC767902.1_Aurelia_aurita       GTTTACTATTATAACAACTTATAAA-ATTATTCCTGAAAATTTATTGTGT
+AF461411.1_Aurelia_limbata      ATATACTTGAAAACTTTCTTCCTGACTTTGCTGCTGCTGCGAGACCGACT
+                                 *    *     *     *        *   * * *              
+
+KC767900.1_Aurelia_aurita       TTTTTTG------------GTTTGGCTAAGTTGC-AAAAATGAG-ATACA
+EF010536.1_Aurelia_aurita       TTTTTTG------------GTTTGGCTAAGTTGC-AAAAATGAG-AT---
+AF461405.1_Aurelia_aurita       TTTTTTG------------GTTTGGCTAAGTCGC-AAAAATGAG-ATACA
+AY935215.1_Aurelia_limbata      GTTTCGAC-----------GTCTGGCTAAGATAC-AAAAATTAG-ATACA
+AY319843.1_Aurelia_labiata      CTTTTTTTATCAAGAAAAAGTTTGGTTAAGTTAC-AAAAATGAG-ATA--
+AY319842.1_Aurelia_labiata      CTTTTTTTATCAAGAAAAAGTTTGGTTAAGTTAC-AAAAATGAG-ATA--
+AY319844.1_Aurelia_labiata      CTTTTTTTATCAAGAAAAAGTTTGGTTAAGTTAC-AAAAATGAG-ATA--
+AY935202.1_Aurelia_labiata      CTTTTTTTATCAAGAAAAAGTTTGGTTAAGTTAC-AAAAATGAG-ATACA
+AF461408.1_Aurelia_labiata      CTTTTTTTATCAAGAAAAAGTTTGGTTAAGTTAC-AAAAATGAG-ATACA
+AY319849.1_Aurelia_aurita       TATTCATTT---------AGCGCAATGAAGATGTTAAAAATGAA-ATA--
+AY935205.1_Aurelia_aurita       TATTCATTT---------AGCGCAATGAAGATGTTAAAAATGAA-ATACA
+AY935206.1_Aurelia_aurita       TATTCATTT---------AGCGCAATGAAGATGTTAAAAATGAA-ATACA
+AY319848.1_Aurelia_aurita       TATTCATTT---------AGCGCAATGAACATGTTAAAAATGAA-ATA--
+KC767901.1_Aurelia_aurita       TATTCATTT---------AGCGCAATGAAGATGTTAAAAATGAA-ATACA
+KC767902.1_Aurelia_aurita       TATTCATTT---------AGCGCAATGAAGATGTTAAAAATACGCGGGCA
+AF461411.1_Aurelia_limbata      CTTTGCTGAGCTGGTCGAGCAACTACTAGCAAAAAACAAAACATGAGACA
+                                  **                       *       * ***          
+
+KC767900.1_Aurelia_aurita       ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+AY935215.1_Aurelia_limbata      ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+AF461408.1_Aurelia_labiata      ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+AY935206.1_Aurelia_aurita       ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+KC767902.1_Aurelia_aurita       ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+AF461411.1_Aurelia_limbata      ACTTCTAACGGTGGATCTCTTGGCTCGTGCATCGATGAAGAACGCAGCCA
+                                                                                  
+
+KC767900.1_Aurelia_aurita       GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+AY935215.1_Aurelia_limbata      GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+AF461408.1_Aurelia_labiata      GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+AY935206.1_Aurelia_aurita       GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+KC767902.1_Aurelia_aurita       GCTGCGATAAGTAGTGTGAATTGCAGAACTCAGCGAATCATCGAATCTTT
+AF461411.1_Aurelia_limbata      GCTGCGATAAGTAGTGTGTATTGCAGAACTCAGTGAATCATCGAATCTTT
+                                                                                  
+
+KC767900.1_Aurelia_aurita       GAACGCAAATGGCGCTCCCTGGTTCTCCAGGGAGCATGTCTGTCTGAG--
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       GAACGCAAATGGCGCTCCCTGGTTCTCCAGGGAGCATGTCTGTCTGAG--
+AY935215.1_Aurelia_limbata      GAACGCAAATGGCGCTCTCTGGTTCTCCAGGGAGCATGTCTGTCTGAGCG
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      GAACGCAAATGGCGCTCTCTGGTTCTCCAGGGAGCATGTCTGTCTGAGCG
+AF461408.1_Aurelia_labiata      GAACGCAAATGGCGCTCTCTGGTTCTCCAGGGAGCATGTCTGTCTGAG--
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       GAACGCAAATGGCGCTCTCTGGTTCTCCAGGGAGCATGTCTGTCTGAGCG
+AY935206.1_Aurelia_aurita       GAACGCAAATGGCGCTCCCTGGTTCTCCAGGGAGCATGTCTGTCTGAGCG
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       GAACGCAAATGGCGCTCCCTGGTTCTCCAGGGAGCATGTCTGTCTGAG--
+KC767902.1_Aurelia_aurita       GAACGCAAATGGCGCTCCCTGGTTCTCCAGGGAGCATGTCTGTCTGAG--
+AF461411.1_Aurelia_limbata      GAACGCAAATGGCGCTCTCTGGTTCTCCAGGGAGCATGTCTGTCTGAG--
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      TCATGTCAAGAACCTACACACACTCGTGTCGGTCTGCCCGTCAA------
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      TCATGTCAAGAACCTACACACACTCGTGTGTCTACGTGTATACA------
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       TCATGTCAAGTACCTACACACACTCGTGTTGTTCTACTCGTCTACTCGTA
+AY935206.1_Aurelia_aurita       TCATGTCAAGTACCTACACACACTCGTGTTGTTCTAC-------------
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      --------AAGGCCGGCCGGTGCAGTGTGTGGCGTTGAGATATCACAGCC
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      --------TACACGTCAGGCATACAATAATAAAGTGTGTGGCGTTGAGAC
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       AAAAGGTAGGCGGCGGCGGCGCTAGTGTGTGGCGTTGAGACATCACGGCC
+AY935206.1_Aurelia_aurita       -----------------GGCGCTAGTGTGTGGCGTTGAGACATCACGGCC
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      ACCCACAGCTTGTGCGTGTGACTGCGTGTCTTGAAGTGAAGTATCACGGC
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      ATCACAGCCACTCACAGCTAGTGTGTGACTGCGTGTCTCGAAATGAAGTA
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       ATTCACAGTTAGTGAGTGACTGCGTGTCTTTAAGTGAAGTATCACGGCTC
+AY935206.1_Aurelia_aurita       ATTCACAGTTAGTGAGTGACTGCGCGTCTTTAAGTGAAGTATCACGGCTC
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      TCCAAACTTCGTGCAGTCGAGTGAGAGCAGCAAAACGTACTGCTTTACGG
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      TCACGGCTCCAAACTCGTGCAGTCGAGCGAGAGCAGCAAAACGTACTGCT
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       CAAACTCGTGCAGTCGAGCGAGAGCAGCAAAACGTAATTGCCCTAAAAAG
+AY935206.1_Aurelia_aurita       CAAACTCGTGCAGTCGAGCGAGAGCAGCAAAACGTAATTGCCCTAAAAAG
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      CAAATACTGTTCTGCCTCTCCTCACAACGGCGAGCCTTTGAGGAAGTGAT
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      TTACAGCACACATACTGTCTGCCTCTCCTCCCAACGGCGAGCCTTTGAGG
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       CACTACCATACTGCCTGCCTCTCCTCTCAACGACGAACCTTTGAGGAAGT
+AY935206.1_Aurelia_aurita       CACTACCATACTGCCTGCCTCTCCTCTCAACGACGAACCTTTGAGGAAGT
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      AACAATTTTGACTCGCTAATTTTGAATTGCGTGTCAAAAATGTTGCTACT
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      AAGTGATAATAATTTTGGCAATTGTGTTACACAATTAATTAATTAATTTT
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       GATAATACCTTTCGACTTGTGACAACCAACCTGAGTTGCATGTTGAAAAC
+AY935206.1_Aurelia_aurita       GATAATACCTTTCGACTTGTGACAACCTTTACGAGTTGCATGTTGAAAAC
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      CCACTGTGAAGTGCAGTAGTGG-------CGATTGTGATTTTGACCTCAG
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      TTACACAAGTGTCAAAAAAGTT-------ACTATTGGATAACTCCTGTAG
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       AACAACTTGATTTCTTTCTTGA---TTTCAAATTGTGATTTTGACCTCAG
+AY935206.1_Aurelia_aurita       AACAACTTGATTTCTTTCTTGACGATTTCAAATTGTGATTTTGACCTCAG
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      ATCAGGCAAGACTACCCGCTGAATTTAAGCATATTAATAAGCGGAGGAAA
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      CAACATTTGTGATTTTGACCTCAGATCAGGCAAGACTACCCGCTGAATTT
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       ATCAGGCAAGACTACCCGCTGAATTTAAGCATATTAATAAGCGGAGGAAA
+AY935206.1_Aurelia_aurita       ATCAGGCAAGACTACCCGCTGAATTTAAGCATATTAATAAGCGGAGGAAA
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      AGAAACTAACAAGGATTCCCTCAGTAACGGCGAGTGAAGTGGGAATGGCT
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      AAGCATATTAATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCTCAGTA
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       AGAAACTAACAAGGATTCCCTCAGTAACGGCGAGTGAAGTGGGAATGGCT
+AY935206.1_Aurelia_aurita       AGAAACTAACAAGGATTCCCTCAGTAACGGCGAGTGAAGTGGGAATGGCT
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      CAAGCTTGAAATCTCTGTTGCTTGCAACAGCGAATTGTAGTCTCGAGAAG
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      ACGGCGAGTGAAGTGGGAATGGCTCAAGCTTGAAATCTCTGTTGCTTGCA
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       CAAGCTTGAAATCTCTGTTGCTTGCAACAGCGAATTGTAGTCTCGAGAAG
+AY935206.1_Aurelia_aurita       CAAGCTTGAAATCCCTGTTGCTTGCAACAGCGAATTGTAGTCTCGAGAAG
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      CGTTTTCCCGGCGGATCTATCCTGCCTAAGTTGCTTGGAACAGCACATCA
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      ACAGCGAATTGTAGTCTCGAGAAGCGTTTTCCCGGCGGATCTATCCTGCC
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       CGTTTTCCCGGCGGATCTATCCTGCCTAAGTTGCTTGGAACAGCACATCA
+AY935206.1_Aurelia_aurita       CGTTTTCCCGGCGGATCTATCCTGCCTAAGTTGCTTGGAACAGCACATCA
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      GAGAGGGTGACAATCCCGTTCGTGGCAGGGCAGACCGTTCATGATACGCT
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      TAAGTTGCTTGGAACAGCACATCACAGAGGGTGACAATCCCGTTTGTGGC
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       GAGAGGGTGACAATCCCGTTTGTGGCAGGGTAGACCGTTCATGATACGCT
+AY935206.1_Aurelia_aurita       GAGAGGGTGACAATCCCGTTTGTGGCAGGGTAGACCGTTCATGATACGCT
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      TTCTAT--------------------------------------------
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      AGGGCAGACCGTTCATGATACGCTTTCTATGAGTCGGGTTGCTTGGGAAT
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       TTCTATGAGTCGGGTTGCTTGGGAATGCAGCCCAAAATTGGTGGTAAACT
+AY935206.1_Aurelia_aurita       TTCTATGAGTCGGGTTGCTTGGGAATGCAGCCCAAAATTGGTGGTAAACT
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       --------------------------------------------------
+EF010536.1_Aurelia_aurita       --------------------------------------------------
+AF461405.1_Aurelia_aurita       --------------------------------------------------
+AY935215.1_Aurelia_limbata      --------------------------------------------------
+AY319843.1_Aurelia_labiata      --------------------------------------------------
+AY319842.1_Aurelia_labiata      --------------------------------------------------
+AY319844.1_Aurelia_labiata      --------------------------------------------------
+AY935202.1_Aurelia_labiata      GCAGCCCAAAATTGGTGGTAAACTCCATCTAAAGCTAAATATTGCCACGA
+AF461408.1_Aurelia_labiata      --------------------------------------------------
+AY319849.1_Aurelia_aurita       --------------------------------------------------
+AY935205.1_Aurelia_aurita       CCATCTAAAGCTAAATATTGCCACGATACCGATAGCGAACAAGT------
+AY935206.1_Aurelia_aurita       CCATCTAAAGCTAAATATTGCCACGATACCGATAGCGAAC----------
+AY319848.1_Aurelia_aurita       --------------------------------------------------
+KC767901.1_Aurelia_aurita       --------------------------------------------------
+KC767902.1_Aurelia_aurita       --------------------------------------------------
+AF461411.1_Aurelia_limbata      --------------------------------------------------
+                                                                                  
+
+KC767900.1_Aurelia_aurita       ------------------
+EF010536.1_Aurelia_aurita       ------------------
+AF461405.1_Aurelia_aurita       ------------------
+AY935215.1_Aurelia_limbata      ------------------
+AY319843.1_Aurelia_labiata      ------------------
+AY319842.1_Aurelia_labiata      ------------------
+AY319844.1_Aurelia_labiata      ------------------
+AY935202.1_Aurelia_labiata      NACCGATAGCGAACAAGT
+AF461408.1_Aurelia_labiata      ------------------
+AY319849.1_Aurelia_aurita       ------------------
+AY935205.1_Aurelia_aurita       ------------------
+AY935206.1_Aurelia_aurita       ------------------
+AY319848.1_Aurelia_aurita       ------------------
+KC767901.1_Aurelia_aurita       ------------------
+KC767902.1_Aurelia_aurita       ------------------
+AF461411.1_Aurelia_limbata      ------------------
+                                                  
