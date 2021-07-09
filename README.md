@@ -14,4 +14,5 @@ II. Aurelia analysis:
 III. Mola analysis:
 1. R file: Mola_cryptic.R
 2. png: Phylogenies are named "Phy_Mola_...."
+        Occurrence map are named "Map_Mola_..."
 3. DNA sequences are fas. or aln. They are named "Seq_Mola_...."
