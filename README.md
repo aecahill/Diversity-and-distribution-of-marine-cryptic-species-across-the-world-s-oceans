@@ -1,0 +1,17 @@
+# Summer-FURSCA-Mark
+There are 3 parts of my research:
+
+I. Diversity and richness of cryptic species in Oceans:
+1. R files: there are 6 R files. I have named and commented them.
+2. cvs files: these consist of tables and occurrence data properly labled
+3. png: these are graphs I made.
+
+II. Aurelia analysis:
+1. R file: Aurelia.R
+2. png: Phylogenies are named "Phy_Aurelia_...."
+3. DNA sequences are fas. or aln. They are named "Seq_Aurelia_...."
+
+III. Mola analysis:
+1. R file: Mola_cryptic.R
+2. png: Phylogenies are named "Phy_Mola_...."
+3. DNA sequences are fas. or aln. They are named "Seq_Mola_...."
