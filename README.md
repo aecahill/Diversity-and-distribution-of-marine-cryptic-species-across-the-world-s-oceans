@@ -4,4 +4,5 @@ Cryptic species are nominal biological species without morphological differences
 
 More description can be find here: [summer 2021 research poster -Mark.pdf](https://github.com/vietbachtran/Summer-FURSCA-2021-Mark-Tran/files/10712396/summer.2021.research.poster.-Mark.pdf)
 
-![alt text](https://github.com/vietbachtran/Summer-FURSCA-2021-Mark-Tran/files/10712396/summer.2021.research.poster.-Mark.pdf)
+![alt text]<img width="954" alt="Screen Shot 2023-02-10 at 9 51 10 PM" src="https://user-images.githubusercontent.com/84835250/218235266-a8b39dd9-3b0b-4e29-92ef-54bd7ba93765.png">
+
